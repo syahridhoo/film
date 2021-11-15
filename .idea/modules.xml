@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Aplikasi_Wisata_Tala_Bricked.iml" filepath="$PROJECT_DIR$/.idea/modules/Aplikasi_Wisata_Tala_Bricked.iml" group="Aplikasi_Wisata_Tala_Bricked" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Aplikasi Wisata Tala Bricked/app" />
+    </modules>
+  </component>
+</project>
