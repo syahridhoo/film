@@ -1,28 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.droidcafe">
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.aplikasiwisatatalabricked">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
 
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
+        android:label="Destination"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.DroidCafe">
-        <activity
-            android:name=".OrderActivity"
-            android:exported="true" />
-        <activity
-            android:name=".MainActivity"
-            android:exported="true"
-            android:label="@string/app_name"
-            android:theme="@style/Theme.DroidCafe.NoActionBar">
+        android:theme="@style/AppTheme"
+        android:fullBackupContent="true"
+        tools:ignore="AllowBackup">
+        <activity android:name=".Medsos" > </activity>
+
+        <activity android:name=".Login"/>
+        <activity android:name=".SplashScreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".alarm.AlarmActivity"
+            android:parentActivityName=".MainActivity"
+            android:label="Alarm"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+
+        <receiver
+            android:name=".alarm.AlarmReceiver"
+            android:enabled="true"
+            android:exported="false"/>
+
+        <activity android:name=".MainActivity" />
+        <activity android:name=".DetailActivity" />
     </application>
+
+
 
 </manifest>

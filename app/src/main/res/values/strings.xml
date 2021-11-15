@@ -1,52 +1,28 @@
-<resources>
-    <string name="app_name">Droid Cafe</string>
-    <string name="action_contact">Contact</string>
-    <string name="action_order">Order</string>
-    <string name="action_status">Status</string>
-    <string name="action_favorites">Favorites</string>
-    <string name="action_settings">Settings</string>
-    <string name="action_order_message">You selected Order</string>
-    <string name="action_status_message">You selected Status</string>
-    <string name="action_favorites_message">You selected Favorites</string>
-    <string name="action_contact_message">You selected Contact</string>
-    <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">First Fragment</string>
-    <string name="second_fragment_label">Second Fragment</string>
-    <string name="next">Next</string>
-    <string name="previous">Previous</string>
-
-    <string name="hello_first_fragment">Hello first fragment</string>
-    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
-    <string name="donuts">Jembatan Ampera</string>
-    <string name="ice_cream_sandwiches">Punti Kayu</string>
-    <string name="intro_text">Wisata Palembang</string>
-    <string name="froyo">Museum Sultan Mahmud Badaruddin II</string>
-
-    <string name="donut_order_message">ini jembatan ampera</string>
-    <string name="ice_cream_order_message">ini punti kayu</string>
-    <string name="froyo_order_message">ini museum sultan mahmud badaruddin II</string>
-
-    <string name="change_dessert">Change dessert</string>
-    <string name="order_label_text">Order:</string>
-
-    <string name="name_label_text">Name</string>
-    <string name="enter_name_hint">Enter your name</string>
-    <string name="address_label_text">Address</string>
-    <string name="enter_address_hint">Enter address</string>
-    <string name="phone_label_text">Phone</string>
-    <string name="enter_phone_hint">Enter phone</string>
-    <string name="note_label_text">Note :</string>
-    <string name="enter_note_hint">Enter note</string>
-    <string name="choose_delivery_method">Choose a delivery method:</string>
-    <string name="same_day_messenger_services">Same day messenger
-        services</string>
-    <string name="next_day_ground_delivery">Next day ground delivery</string>
-    <string name="pick_up">Pick up</string>
-
-    <string-array name="Labels_array">
-        <item>Home</item>
-        <item>Work</item>
-        <item>Mobile</item>
-        <item>Other</item>
-    </string-array>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Aplikasi Wisata Tala Bricked</string>
+    <string name="pulau_komodo">pulaukomodo</string>
+    <string name="trio_gili">triogili</string>
+    <string name="raja_ampat">rajaampat</string>
+    <string name="danau_sentani">danausentani</string>
+    <string name="bali">bali</string>
+    <string name="taman_laut_bunaken">tamanlautbunaken</string>
+    <string name="puncak_jayawijaya">puncakjayawijaa</string>
+    <string name="tana_toraja">tanatoraja</string>
+    <string name="candi_borobudur">candiborobudur</string>
+    <string name="wikipedia">Wikipedia</string>
+    <string name="back_to_list">Back To List</string>
+    <string name="lihat_map">Lihat Map</string>
+    <string name="webview">WebView</string>
+    <string name="taman_wisata">Taman Wisata:</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="tod">TODO</string>
+    <string name="nama_wisata" tools:ignore="DuplicateDefinition">Nama Wisata</string>
+    <string name="lokasi_wisata" tools:ignore="DuplicateDefinition">Lokasi Wisata</string>
+    <string name="deskripsi_wisata">Deskripsi Wisata</string>
+    <string name="todooo">todo</string>
+    <string name="lokasi">lokasi</string>
+    <string name="login">login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="todo">TODO</string>
 </resources>
