@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "Aplikasi Wisata Tala Bricked"
+rootProject.name='Wisata Purwakarta'
