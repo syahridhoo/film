@@ -1,28 +1,3 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="app_name">Aplikasi Wisata Tala Bricked</string>
-    <string name="pulau_komodo">pulaukomodo</string>
-    <string name="trio_gili">triogili</string>
-    <string name="raja_ampat">rajaampat</string>
-    <string name="danau_sentani">danausentani</string>
-    <string name="bali">bali</string>
-    <string name="taman_laut_bunaken">tamanlautbunaken</string>
-    <string name="puncak_jayawijaya">puncakjayawijaa</string>
-    <string name="tana_toraja">tanatoraja</string>
-    <string name="candi_borobudur">candiborobudur</string>
-    <string name="wikipedia">Wikipedia</string>
-    <string name="back_to_list">Back To List</string>
-    <string name="lihat_map">Lihat Map</string>
-    <string name="webview">WebView</string>
-    <string name="taman_wisata">Taman Wisata:</string>
-    <string name="deskripsi">Deskripsi</string>
-    <string name="tod">TODO</string>
-    <string name="nama_wisata" tools:ignore="DuplicateDefinition">Nama Wisata</string>
-    <string name="lokasi_wisata" tools:ignore="DuplicateDefinition">Lokasi Wisata</string>
-    <string name="deskripsi_wisata">Deskripsi Wisata</string>
-    <string name="todooo">todo</string>
-    <string name="lokasi">lokasi</string>
-    <string name="login">login</string>
-    <string name="username">Username</string>
-    <string name="password">Password</string>
-    <string name="todo">TODO</string>
+<resources>
+    <string name="app_name">Wisata Purwakarta</string>
 </resources>
