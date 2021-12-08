@@ -1,4 +1,4 @@
-package com.example.aplikasiwisatatalabricked;
+package com.example.android.populartvapp;
 
 import org.junit.Test;
 
