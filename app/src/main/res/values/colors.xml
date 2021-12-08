@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#ff42b549</color>
-    <color name="colorPrimaryDark">#ff42b549</color>
-    <color name="colorAccent">#FBC02D</color>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#708090</color>
+    <color name="colorAccent">#d4a74a</color>
+
+    <!--color untuk gradient tansition-->
+    <color name="blue">#64b5f6</color>
+    <color name="dark_blue">#1975BD</color>
+    <color name="green">#81c784</color>
+    <color name="polo_blue">#333B46</color>
+
+
+
 </resources>
