@@ -1,0 +1,53 @@
+com/example/android/populartvapp/room/Converters.java
+ com.example.android.populartvapp.room.Converters
+ com.example.android.populartvapp.room.Converters$1
+ com.example.android.populartvapp.room.Converters$2
+com/example/android/populartvapp/fragment/TopRatedFragment.java
+ com.example.android.populartvapp.fragment.TopRatedFragment
+ com.example.android.populartvapp.fragment.TopRatedFragment$1
+ com.example.android.populartvapp.fragment.TopRatedFragment$2
+com/example/android/populartvapp/AboutActivity.java
+ com.example.android.populartvapp.AboutActivity
+com/example/android/populartvapp/room/TVSeriesRepository.java
+ com.example.android.populartvapp.room.TVSeriesRepository
+ com.example.android.populartvapp.room.TVSeriesRepository$deleteAllPopularAsyncTask
+ com.example.android.populartvapp.room.TVSeriesRepository$deleteAllTopRatedAsyncTask
+ com.example.android.populartvapp.room.TVSeriesRepository$insertAsyncTask
+com/example/android/populartvapp/room/TVSeriesRoomDatabase.java
+ com.example.android.populartvapp.room.TVSeriesRoomDatabase
+com/example/android/populartvapp/BuildConfig.java
+ com.example.android.populartvapp.BuildConfig
+com/example/android/populartvapp/DetailActivity.java
+ com.example.android.populartvapp.DetailActivity
+ com.example.android.populartvapp.DetailActivity$1
+com/example/android/populartvapp/IntroActivity.java
+ com.example.android.populartvapp.IntroActivity
+com/example/android/populartvapp/fragment/PopularFragment.java
+ com.example.android.populartvapp.fragment.PopularFragment
+ com.example.android.populartvapp.fragment.PopularFragment$1
+ com.example.android.populartvapp.fragment.PopularFragment$2
+com/example/android/populartvapp/SplashscreenActivity.java
+ com.example.android.populartvapp.SplashscreenActivity
+ com.example.android.populartvapp.SplashscreenActivity$1
+com/example/android/populartvapp/rest/ApiService.java
+ com.example.android.populartvapp.rest.ApiService
+com/example/android/populartvapp/MainActivity.java
+ com.example.android.populartvapp.MainActivity
+ com.example.android.populartvapp.MainActivity$ViewPagerAdapter
+com/example/android/populartvapp/room/TVSeriesDao.java
+ com.example.android.populartvapp.room.TVSeriesDao
+com/example/android/populartvapp/model/RootTVSeriesModel.java
+ com.example.android.populartvapp.model.RootTVSeriesModel
+com/example/android/populartvapp/rest/ApiConfig.java
+ com.example.android.populartvapp.rest.ApiConfig
+com/example/android/populartvapp/adapter/TVSeriesAdapter.java
+ com.example.android.populartvapp.adapter.TVSeriesAdapter
+ com.example.android.populartvapp.adapter.TVSeriesAdapter$ViewHolder
+com/example/android/populartvapp/model/ResultsItem.java
+ com.example.android.populartvapp.model.ResultsItem
+com/example/android/populartvapp/fragment/SecondFragment.java
+ com.example.android.populartvapp.fragment.SecondFragment
+ com.example.android.populartvapp.fragment.SecondFragment$1
+ com.example.android.populartvapp.fragment.SecondFragment$2
+com/example/android/populartvapp/room/TVSeriesViewModel.java
+ com.example.android.populartvapp.room.TVSeriesViewModel
